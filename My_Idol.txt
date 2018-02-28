@@ -1,0 +1,36 @@
+<h1 style="text-align:center;"> Narendra Modi </h1>
+<body style="background-color:green;">
+  <h3  style="color:yellow;"> <b><i>The Prime Minister Of India</i></b></h3>
+<hr>
+<img src="http://www.pmindia.gov.in/wp-content/uploads/2014/06/High1.jpg"alt="The PRIME MINISTER of India"  WIDTH="500" height="500">
+<br>The following is the timeine of  <b>MR.NARENDRA MODI</b>
+<br><ul><em>
+<li><mark>1950 </mark>- Narendra Modi is born to Damodardas Modi and Hiraben in Vadnagar village in Gujarat's Mehsana district. He first joins the Akhil Bharatiya Vidyarthi Parishad, the student's wing of the Rashtriya Swayasevak Sangh (RSS) in his formative years and later joins the parent organisation.</li>
+<br>
+<li><mark>1987 </mark>- Formally joins the Bharatiya Janata Party (BJP) and is appointed the party's general secretary in the state unit.
+</li><br>
+<li><mark>1990 </mark>- Is one of the key choreographers of BJP leader L.K. Advani's Ram Rath Yatra from Somnath in Gujarat to Ayodhya.
+</li><br>
+<li><mark>1995 </mark>- Modi's first real political jump. He is appointed a national secretary of the BJP in charge of five states and later promoted to general secretary in charge of organisational matters in 1998.</li>
+<br>
+<li><mark>2001 </mark>- Modi marches back to Gujarat as chief minister, after the party's central leadership decides to appoint him, even as incumbent chief minister Keshubhai Patel faces flak for slack administration and allegations of corruption.</li>
+<br>
+<li><mark>2002</mark> - Post-Godhra riots, Modi comes under watch as chief minister. Manages to stick to the chair despite the opposition as well as party detractors demanding his resignation.</li>
+<br>
+<li><mark>2002 </mark>- Fortunes swing as Modi wins a landslide victory, winning 128 out of 182 seats to the Gujarat legislative assembly.</li>
+<br>
+<li><mark>2007</mark> - Elected Gujarat chief minister for the third time (117 seats).</li>
+<br>
+<li><mark>2011</mark> - Modi undertakes the Sadbhavana Yatra, a roadshow throughout Gujarat ostensibly to promote social harmony. Political observers see it as a dry run for his political ambitions on the national stage.</li>
+<br>
+<li><mark>2012</mark> - Becomes chief minister for the fourth time (112 seats).</li>
+<br>
+  <li><mark>2013</mark> - Nominated chairman of the BJP campaign committee, making him the virtual face of the party for the 2014 Lok Sabha elections.</li><br>
+  <li><mark>2014</mark>- Became Prime Minister of India</li>
+  <br></em>
+  <img src="http://cdn.narendramodi.in/cmsuploads/0.34592100-1450848819-indian-pm-narendra-modi-russia-remains-our-principal-partner.jpg" width="250" height="300" >
+  <h1><i>if you are interested to know more <a href="https://en.wikipedia.org/wiki/Narendra_Modi "> click here</a><hr>
+    </i> </h1>
+ 
+  </body>
+
