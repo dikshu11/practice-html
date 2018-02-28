@@ -1,0 +1,67 @@
+<h1 style="text-align:center;">HISAR</h1>
+<style>
+  a:link{
+    color: green;
+    background color: transparent;
+  }
+    a:visited{
+    color: purple;
+    background color: transparent;
+  }
+    a:hover{
+    color: blue;
+    background color: transparent;
+  }
+    a:active{
+    color: green;
+    background color: transparent;
+  }
+</style>
+<body>
+ 
+ <center> <img src="https://www.mapsofindia.com/maps/haryana/districts/hisar-district-map.jpg" alt="hisar" height="250" width="300"></center>
+  <br>
+  <p><b>The present city of Hisar, one of the important cities of North India, is situated 164 kilometers west of Delhi on the National Highway No.10.</b> </p>
+ <em>
+The city of Hisar was founded by a Muslim ruler, Firozshah Tughlaq in 1354 A.D. 'Hisar' is an Arabic word, which means 'Fort'. The city, which we know today as 'Hisar', was originally called 'Hisar Firoza (also Hisar-e-Firoza) or in other words, the 'Fort of Firoz'. But as the days rolled by, the very word 'Firoza' was dropped from its original name.</em>
+  <h3> PLACES TO VISIT</h3>
+ 
+  <h1>St. Thomas Church</h1>
+<hr>
+<center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Thomas_Church%2C_Hisar.jpg/220px-St._Thomas_Church%2C_Hisar.jpg" height="600" width="500"><hr></center> 
+<p style="color:purple;">With a Victorian Style of architecture, the church is dedicated to St. Thomas who was one of the twelve main disciples of Jesus Christ. Being one of the modern structures in the city, the construction of the church was completed in 1864. There is also a cemetery adjoining the church. For the initial years the church was open only for the Christians. Built with a wooden panel, geometric tiles, altar and bapistry, St. Thomas’s church is a beautiful modern extravaganza amid other historic sites</p>
+<hr>
+  <h1>OP Jindal Gyan Kendra</h1>
+<center>   <img src="http://static.panoramio.com/photos/large/23204089.jpg" height="600" width="500"></center> 
+<hr>
+  <p style="color:green;"> OP Jindal Gyan Kendra is biggest tower in Hisar where people can see the complete view of this beautiful city. The greenery over there add a lot to the view from 8 floor.this place is having a long tower with a beautiful park, food court and rides for children, situated in the middle of city, it is getting famous day over day . Many people from nearby places visit this place .<hr></p>
+  <h1> THE BLUE BIRD LAKE</h1>
+<center> <img src="http://images.jagran.com/images/04bluebird1N.jpg" height="600" width="500"><hr></center> 
+<p style="color:purple;">The lake and surrounding wetland and parks are spread across 52 acres. The lake itself is 20 acres and has small islands where migratory birds and other flora and fauna live and nest. The lake is visited by the migratory birds during the winter, many of which are endangered species.<br>
+
+The lake has boats available for hire, along with safety gear such as life saving flotation jackets and devices. Fishing is permitted with payment of a licensing fee. The lake has floating pontoon platforms for visitors and boaters, and ghats for sitting and relaxing. Landscaped parks, sight-seeing walking trails and jogging tracks, over-water bridges, bush land, children's swings and play area, visitor's car park and toilets, and other amenities are available. There is no entry fee to use these areas</p><hr>
+<h1> THE DEAR PARK </h1>
+<center> <img src="https://www.bcmtouring.com/forums/attachments/img_1801-jpg.591076" height="600" width="500"></center> 
+<hr>
+<p style="color:green;">The deer to be found in the park include 20 Blackbuck, 16 Chital spotted deer and 6 sambar.The Deer Park was established by the Forests Department, Haryana of Government of Haryanain 1970-71[1] to advance conservation and to increase public awareness and understanding of the topic through education.[1] It is the oldest among Zoos and deer parks in Haryana</p><hr><h1>
+<i>More places to visit are</i></h1>  
+<ul>
+  <li><mark><i style="color:red;">Town Park</mark></i>-Place for children to have a lot of games
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Berlin_Treptower_Park_-_Wiese.jpg" height="300" width="300"></li><hr>
+  
+  <li><mark> <i style="color:red;">Dominos</i></mark>- wanna to eat pizza... Come here                                     <img src="https://igx.4sqi.net/img/general/699x268/30643576_5v8Ea4JFV6Zms_PVOMYKWyqjULBk8JL9T9AV_vPpBuA.jpg" height="300" width="300"></li><hr>
+  
+  <li><mark> <i style="color:red;">RCB-Ram Chat Bhandar</i></mark>.... Always an overcrowded place<img src= "https://content4.jdmagicbox.com/comp/hissar/c6/9999p1662.1662.170113072423.u1c6/catalogue/ram-chat-bhandar-hissar-efg5o.jpg" height="300" width="300"></li><hr>
+  
+  <li><mark><i style="color:red;">MG Resort </i></mark>- A place where  one can have fun<img src= "http://www.mgclubhsr.com/hover/dist/images/assets/rect/2.jpg" height="300" width="300"></li><hr>
+ 
+  <li><mark><i style="color:red;">Gujri Mahal</i></mark> - A place of historical interest<img src= "http://hisar.biz/wp-content/uploads/2017/01/98295_9644.jpg" height="300" width="300"> </li><hr>
+  
+  <li><mark><i style="color:red;"> Suncity Mall</i></mark> - Shopping and movies.. A great combination<img src= "http://ppu.edu.in/wp-content/uploads/2016/05/index-300x164.jpg" height="300" width="300"> </li><hr>
+ 
+  <li><mark><i style="color:red;"> Lazeez Hotel</i></mark> - A Family  Restaurant where one can enjoy <img src= "https://media-cdn.tripadvisor.com/media/photo-s/06/6c/5a/52/lazeez-restaurant-hotel.jpg" height="300" width="300"></li><hr>
+   
+  <li><mark><i style="color:red;">Splash Fun Park</i></mark>- fun rides in this watre park a alot. children <img src= "https://buzz.tt/media/users/images/venues/772/fun-splash-water-park_50f0262943afa_800.jpg" height="300" width="300"><hr>
+  </ul>
+<h1>If you  are looking for more information,  please <a href="https://en.wikipedia.org/wiki/Hisar_(city)">click here</a> <img src="http://images.clipartpanda.com/thank-you-smiley-animated-yion5X6iE.jpeg" height="90" width="90"></h1>
+</body>
